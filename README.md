@@ -1,7 +1,7 @@
 electron-test
 ==============
 
-<img src="https://raw.githubusercontent.com/oshiro-kazuma/electron-test/master/hello_electron.png" width="400">
+<img src="./hello_electron.png" width="400">
 
 ### setup ###
 
@@ -22,3 +22,15 @@ $ electron .
 ```
 $ electron-packager ./ electron-test --platform=darwin,win32 --arch=x64 --version=0.36.1
 ```
+
+### open packaged app (mac) ###
+
+```
+open ./electron-test-darwin-x64/electron-test.app
+```
+
+- packaged app for mac
+  - ./electron-test-darwin-x64/electron-test.app
+- packaged app for win
+  - ./electron-test-win32-x64/electron-test.exe
+  
