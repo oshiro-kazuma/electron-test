@@ -20,6 +20,5 @@ $ electron .
 ### package ###
 
 ```
-$ electron-packager ./ sample --platform=darwin,win32 --arch=x64 --version=0.36.1
+$ electron-packager ./ electron-test --platform=darwin,win32 --arch=x64 --version=0.36.1
 ```
-
