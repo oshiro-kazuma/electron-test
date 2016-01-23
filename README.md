@@ -1,7 +1,7 @@
 electron-test
 ==============
 
-![キャプチャ](https://raw.githubusercontent.com/oshiro-kazuma/electron-test/master/hello_electron.png "キャプチャ")
+<img src="https://raw.githubusercontent.com/oshiro-kazuma/electron-test/master/hello_electron.png" width="400">
 
 ### setup ###
 
